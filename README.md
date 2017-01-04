@@ -9,5 +9,5 @@ Description: This project mimicks the behavior of TCP into UDP, implemented usin
 
 To run the project: 
   1. First compile the files: javac UDPServer.java, javac UDPClient.java
-  2. Then run the server: java UDPServer
-  3. After running the server, run the client: java UDPClient
+  2. Open a terminal then run the server: java UDPServer
+  3. Open another terminal: (after running the server) run the client: java UDPClient
